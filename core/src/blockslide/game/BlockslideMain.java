@@ -15,6 +15,7 @@ public class BlockslideMain extends ApplicationAdapter {
 		batch = new SpriteBatch();
 		img = new Texture("badlogic.jpg");
 	}
+	//Test mit Git
 
 	@Override
 	public void render () {
